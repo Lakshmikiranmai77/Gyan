@@ -1,0 +1,26 @@
+SMAP
+regupdate_jsp.java
+JSP
+*S JSP
+*F
++ 0 regupdate.jsp
+regupdate.jsp
++ 1 check.html
+check.html
++ 2 adminmenu.html
+adminmenu.html
+*L
+5,2:51
+2#1,3:54
+7#0,14:57
+21,52:72
+72,13:124
+1#2,46:137
+84#0,22:182
+108,19:207
+126:226
+127:227,6
+128,3:233
+134,9:239
+142,39:248
+*E
